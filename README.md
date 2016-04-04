@@ -1,5 +1,4 @@
 # hello-world
-repositorio de prueba
 
 Saludos terricolas
 
